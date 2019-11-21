@@ -1,12 +1,11 @@
 # Text Classification - From Zero to Hero
-### Dr. Omri Allouche ()
-### NLP Day, Tel Aviv, November 2019
+### Dr. Omri Allouche, NLP Day, Tel Aviv, November 2019
 
 This repository contains the presentation and notebooks of a workshop presented at the 1st NLP Day (http://nlpday.ml/), held in November 2019 in Tel Aviv, Israel by Dr. Omri Allouche (https://www.linkedin.com/in/omria/).  
 
 Abstract:
 
-**TEXT CLASSIFICATION: FROM ZERO TO HERO**
+**TEXT CLASSIFICATION: FROM ZERO TO HERO**  
 *Recent years have seen a major jump in state-of-the-art results on various NLP tasks, with the introduction of powerful transformer-based deep neural networks trained on huge corpora. But when attempting to build a text classifier for our own custom domain, what does it all mean for us? In this workshop, I'll walk you through building an effective text classifier using only a handful of labeled data points. We'll label data using active learning and guided search, evaluate the performance of our model and our labels, use weak learners and data programming with the Snorkel package and employ state-of-the-art models (e.g. BERT) to our own data. We'll discuss common pitfalls and eventually obtain a working, high quality text classifier in a matter of hours.*
 
 Presentation:  
