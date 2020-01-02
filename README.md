@@ -9,7 +9,8 @@ Abstract:
 *Recent years have seen a major jump in state-of-the-art results on various NLP tasks, with the introduction of powerful transformer-based deep neural networks trained on huge corpora. But when attempting to build a text classifier for our own custom domain, what does it all mean for us? In this workshop, I'll walk you through building an effective text classifier using only a handful of labeled data points. We'll label data using active learning and guided search, evaluate the performance of our model and our labels, use weak learners and data programming with the Snorkel package and employ state-of-the-art models (e.g. BERT) to our own data. We'll discuss common pitfalls and eventually obtain a working, high quality text classifier in a matter of hours.*
 
 Presentation:  
-- [link](https://github.com/omriallouche/text_classification_from_zero_to_hero/blob/master/docs/NLP%20Day%20-%20Text%20Classification%20Zero%20to%20Hero.pdf)
+- [Link](https://github.com/omriallouche/text_classification_from_zero_to_hero/blob/master/docs/NLP%20Day%20-%20Text%20Classification%20Zero%20to%20Hero.pdf)
+- [Audio recording in Hebrew](https://github.com/omriallouche/text_classification_from_zero_to_hero/blob/master/docs/Text%20Classification%20zero%20to%20hero%20-%20audio%20recording%20-%20Hebrew.m4a?raw=true)
 
 Notebooks:
 1.  [Bag of Words and Tf-Idf](notebooks/1_bow_tfidf.ipynb)  
